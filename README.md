@@ -12,3 +12,8 @@ Model/
 Misc/
 1) 'descriptions.txt' --- Contains the image to description map.
 2) tokenizer.pkl --- Contains the encoded token values of the vocabulary obtained from the Flickr8k training dataset.
+
+# Running the Model
+Step 1) - Install the dependencies provided in the requirements.md file.
+Step 2) - Run the notebooks in the folder 'Model/' in the order listed above in the contents section.
+
